@@ -4,5 +4,6 @@ git add PythonExercise.tex
 git commit -m "PythonExercise.tex"
 git remote add origin https://github.com/fuphy/latexTrail.git
 git remote -v
+git pull hello-world master --allow-unrelated-histories
 git push --set-upstream origin master
 git push
